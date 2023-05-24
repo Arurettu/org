@@ -10,10 +10,10 @@ const Footer = () => {
                 <img src="/img/twitter.png" alt="Twitter"/>
             </a>
             <a href="https://www.aluracursos.com/">
-                <img src="/img/instagram.png" alt="Instagramk"/>
+                <img src="/img/instagram.png" alt="Instagram"/>
             </a>
         </div>
-        <img src="/img/Logo.png" alt="org"/>
+        <img src="/img/logo.png" alt="org"/>
         <strong>Desarrollado por Alura</strong>
     </footer>    
 }
